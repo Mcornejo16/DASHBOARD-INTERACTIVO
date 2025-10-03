@@ -28,4 +28,4 @@ def resumen_analitica():
 datos = resumen_analitica()
 print("Total de ventas: ", datos["total"])
 print("Promedio diario: ", datos["promedio"])
-print("Despliegue de datos")
+print("Despliegue de dato")
